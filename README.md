@@ -8,4 +8,7 @@ MSU CSE 251 Programming in C, Spring, 2014
 参考课程：[2014 SP] MSU: CSE 251 Programming in C（https://www.cse.msu.edu/~cse251/index.html）  
 
 使用环境：Debian11.2  
-step10、step14、project2所需库无法编译。
+step10、step14、project2所需库无法编译。  
+
+2022.2.8:  
+新增project3，未实现文件I/O，时间输入部分未使用原课程提供函数。  
