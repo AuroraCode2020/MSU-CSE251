@@ -6,6 +6,9 @@ MSU CSE 251 Programming in C, Spring, 2014
 2.1 先导课(3个月)  
 课程：C语言基础  
 参考课程：[2014 SP] MSU: CSE 251 Programming in C（https://www.cse.msu.edu/~cse251/index.html）  
+参考书：The Absolute Beginner's Guide to C (或其它C语言参考书)  
+参考视频：B站上有很多不错的C语言教程，自己找  
+产出目标：完成课程站点上的所有14个Steps实验+3个Projects  
 
 使用环境：Debian11.2  
 step10、step14、project2所需库无法编译。  
