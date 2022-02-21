@@ -16,10 +16,12 @@ Makefile文件的制作有三点需要明确的：
 删除所有.o文件和hanoi。
 ### #ifndef和#endif的使用
 用法：用#ifndef和#endif把头文件内容包括起来，可以防止重复编译
-`#ifndef xxx`
-`xxx`
-`xxx`
-`#endif`
+```C
+#ifndef xxx
+xxx
+xxx
+#endif
+```
 ## 小作业
 1. 创建一个新头文件autosolve.h。这个文件被hanoi.c所包含。在Makefile中正确编写相关编译代码。
 注意：autosolve.h中包含hanoi.h。

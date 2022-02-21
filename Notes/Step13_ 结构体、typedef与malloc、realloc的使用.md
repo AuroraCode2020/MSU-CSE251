@@ -3,10 +3,12 @@
 ### 小任务：
 1. 使用InputPositiveValue函数改变t1.icmax的输入；
 2. 创建一个安全健壮的函数来输入晶体管类型，它应该看起来像这样：
-`int InputTransistorType(char *prompt)`
-`{`
-`    /* ... */`
-`}`
+```C
+int InputTransistorType(char *prompt)
+{
+    /* ... */
+}
+```
 在InputTransistor里面这样使用它：
 `t1.type = InputTransistorType("Input type: ");`
 3. 添加代码显示case style；
